@@ -5,16 +5,19 @@
         height: 500px;
     } */
 
-    .service-box{
+    /* .service-box{
         width: 90%;
         height: 90%;
 
-    }
+    } */
     /* category 1 images start */
     .category-1-1{background-image: url(./images/Screenshots/automatic\ baling\ machine.png); background-size: cover; background-repeat: no-repeat; width: 100%;height: auto;}
     .category-1-2{background-image: url(./images/Screenshots/D\ duster.png); background-size: cover; background-repeat: no-repeat; width: 100%;height: auto;}
  /* category 1 images end */
-    
+ .slider-img{
+  width: fit-content;
+  height: 500px;
+ }
 
  .parallax {
     /* The image used */
